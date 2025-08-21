@@ -14,7 +14,7 @@ Libraries used: beautifulsoup4, requests, typing, tqdm, pytest, pytest-mock
 
 ## 📜Project Structure
 
-```sh
+```bash
 project/
 ├── src/
 │   ├── __init__.py           # Indicates that the directory `src` is a Python module.
@@ -40,20 +40,20 @@ project/
 ```
 
 ## ⚙️Requirements
-- [Python 3.8 or higher](https://www.python.org/)
+- [**Python 3.8 or higher**](https://www.python.org/)
 - Internet connection
 - Installing the necessary dependencies
 
 ## 💾Installation
 1. Clone the repository:
 
-    ```sh
+    ```bash
     git clone https://github.com/Ha1seZz/Alberta-Seniors-Housing-Directory-Parser
     cd Alberta-Seniors-Housing-Directory-Parser
     ```
 
 2. Set Up Virtual Environment (Optional)
-   ```sh
+   ```bash
    python -m venv venv
    source venv/bin/activate  # For Linux/Mac
    venv\Scripts\activate   # For Windows
@@ -61,7 +61,7 @@ project/
 
 3. Install required dependencies:
 
-    ```sh
+    ```bash
     python -m pip install -U -r requirements.txt
     ```
 
@@ -71,11 +71,11 @@ project/
    cd Alberta-Seniors-Housing-Directory-Parser
    ```
 2. Activating the environment:
-   ```sh
+   ```bash
    venv\Scripts\activate
    ```
 3. Run the Parser:
-   ```sh
+   ```bash
    python project/src/main.py
    ```
 4. Follow the instructions:
