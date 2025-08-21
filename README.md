@@ -67,7 +67,7 @@ project/
 
 ## 📝Usage
 1. Change the current directory:
-   ```sh
+   ```bash
    cd Alberta-Seniors-Housing-Directory-Parser
    ```
 2. Activating the environment:
